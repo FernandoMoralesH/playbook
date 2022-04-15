@@ -58,4 +58,5 @@ const explorers = [
       }
     }
    ]
-   explores.name.forEach(name => console.log(name))
+
+   explorers[0].forEach( name => console.log(name))
