@@ -9,6 +9,6 @@ NOTA: --24/04/22 Actualizado hasta la 2da Practica, pendientes las 3 ultimas.--
 | ------------- |:-------------:| -----:|
 |`my_launchx_app`|1|[Link al repo](https://github.com/FernandoMoralesH/my_launchx_app)|
 |`spiderverse`|2|[Link al repo](https://github.com/FernandoMoralesH/spiderverse.git)|
-|`twitter`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`twitter`|3, 4, 5|[Link al repo](https://github.com/FernandoMoralesH/twitter.git)|
 |`express_basic`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`express_api`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
